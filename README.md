@@ -30,12 +30,12 @@
 ## 📜Practical Questions 
 
 #### Q1) &ensp; Write a C program to calculate the Mean, Median and Mean Deviation of a simple distribution.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-01/MeanMedianMeanDeviation.c)✅
 #
 
 
 #### Q2) &ensp; Write a C program to compute the Standard Deviation.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-02/StandardDeviation.c)✅
 #
 
 
@@ -43,28 +43,28 @@
 
 (-1,10),&ensp;(0,9),&ensp;(1,7),&ensp;(2,5),&ensp;(3,4),&ensp;(4,3),&ensp;(5,0),&ensp;(6,-1)
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-03/LeastSquareApproximation.c)✅
 #
 
 
 #### Q4) &ensp;  Write a C program to find the real root of the equation x<sup>3</sup>-4x+1 = 0  by using the Method of Successive Approximation.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-04/SuccessiveApproximation.c)✅
 #
 
 
 #### Q5) &ensp; Write a C program to find a real root of the equation x<sup>2</sup>-sin(x)-9 = 0 by using the Bisection Method.
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-05/BissectionMethod.c)✅
 #
 
 
 #### Q6) &ensp; Write a C program to find a root of the equation x<sup>2</sup>-25 = 0 by using the Regula-False Method.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-06/RegulaFalsi.c)✅
 #
 
 
 #### Q7) &ensp; Write a C program to find a real root of the equation sin(x) = 1+x<sup>3</sup> correct to 3 decimal places by using the Newton-Raphson Method.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-07/NewtonRaphson.c)✅
 #
 
 
@@ -76,7 +76,7 @@
 
 x<sub>1</sub> + x<sub>2</sub> - 2.x<sub>3</sub> = 0	
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-08/GaussElimination.c)✅
 #
 
 
@@ -87,7 +87,7 @@ x<sub>1</sub> + x<sub>2</sub> - 2.x<sub>3</sub> = 0
 x + y + 54z = 110	
 ```
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-09/GaussSeidel.c)✅
 #
 
 
@@ -96,7 +96,7 @@ x + y + 54z = 110
    x:	4	 	5	 	7		10		11	12
 f(x):	48	 	100		294		900		1210	2028
 ```
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-10/NewtonDivideDifference.c)✅
 #
 
 
@@ -105,7 +105,7 @@ f(x):	48	 	100		294		900		1210	2028
 x:	1.0		    1.1		    1.2		    1.3		    1.4		    1.5
 y:	0.24197		0.21785		0.19419		0.17137		0.14973		0.12952	
 ```
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-11/NewtonForwardInterpolation.c)✅
 #
 
 
@@ -115,7 +115,7 @@ x:	0.0		 0.2		   0.4		   0.6		 0.8	    1.0
 y:	1.0		0.961538	0.833333	0.555556	0.3125		0.2
 
 ```
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-12/NewtonBackwardInterpolation.c)✅
 #
 
 
@@ -124,14 +124,14 @@ y:	1.0		0.961538	0.833333	0.555556	0.3125		0.2
 x:	 3		 7		 9		10
 y:	168		120		72		63		
 ```
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-13/LagrangeInterpolation.c)✅
 #
 
 
 #### Q14) &ensp; Write a C program to evaluate the following using Trapezoidal Rule.
 <img src="./Images/Trapezoidal.jpg" width="100%"/>
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-14/TrapezoidalRule.c)✅
 #
 
 
@@ -140,21 +140,21 @@ y:	168		120		72		63
    x:	0.8		    0.9		    1.0		    1.1		    1.2
 f(x):	0.71736		0.78333		0.84147		0.92314		0.96356
 ```
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-14/TrapezoidalRule.c)✅
 #
 
 
 #### Q16) &ensp; Write a C program to evaluate the following using Simpson's One-Third Rule.
 <img src="./Images/Simpson_one_third.jpg" width="100%"/>
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-16/SimpsonOneThirdRule.c)✅
 #
 
 
 #### Q17) &ensp; Write a C program to evaluate the following using Simpson's Three-Eighth Rule.
 <img src="./Images/Simpson_three_eighth.jpg" width="100%"/>
 
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-17/Simpson_three_eighth.c)✅
 #
 
 
@@ -162,7 +162,7 @@ f(x):	0.71736		0.78333		0.84147		0.92314		0.96356
 <img src="./Images/TaylorSeries.jpg" width="100%" /> 
 
 #### and y(0)=1. Find the values of y(0,1) and y(0,2) by using the Taylor Series Method.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-18/TaylorSeries.c)✅
 #
 
 
@@ -170,7 +170,7 @@ f(x):	0.71736		0.78333		0.84147		0.92314		0.96356
 <img src="./Images/Eular.jpg" width="100%" /> 
 
 #### and y(0)=1. Find y(0,2) when h=0.01 by Euler's Method.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-19/EularMethod.c)✅
 #
 
 
@@ -178,17 +178,17 @@ f(x):	0.71736		0.78333		0.84147		0.92314		0.96356
 <img src="./Images/ModifiedEular.jpg" width="100%" />  
 
 #### and y(0)=1. Find y(0.02) when h=0.01 by Modified Euler's Method.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-20/ModifiedEularMethod.c)✅
 #
 
 
 #### Q21) &ensp; Write a C program to approximate y when x=0.1, 0.2, 0.3 and h=0.1 using Runge-Kutta Method. Given x=0, when y=1 and f(y,x)=x+y.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-21/RungeKutta.c)✅
 #
 
 
 #### Q22) &ensp; Huen's Method.
-- ######  [See Solution]()✅
+- ######  [See Solution](https://github.com/anuj-das-10/Numerical-Methods/blob/main/Solutions/Q-22/HuenMethod.c)✅
 #
 
 
