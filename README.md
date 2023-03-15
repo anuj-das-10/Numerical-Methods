@@ -121,7 +121,7 @@ y:	1.0		0.961538	0.833333	0.555556	0.3125		0.2
 
 #### Q13) &ensp; Write a C program to interpolate using Lagrange's Interpolation Method. Use it to find the value of y when x = 6. Given:
 ```
-x:	3		7		9		10
+x:	 3		 7		 9		10
 y:	168		120		72		63		
 ```
 - ######  [See Solution]()✅
@@ -177,7 +177,7 @@ f(x):	0.71736		0.78333		0.84147		0.92314		0.96356
 #### Q20) &ensp; Write a C program for solving a differential equation 
 <img src="./Images/ModifiedEular.jpg" width="100%" />  
 
-#### and y(0)=1. Find y(0.02) when h(0.01)=1 by Modified Euler's Method.
+#### and y(0)=1. Find y(0.02) when h=0.01 by Modified Euler's Method.
 - ######  [See Solution]()✅
 #
 
