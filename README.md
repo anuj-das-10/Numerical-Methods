@@ -111,7 +111,7 @@ y:	0.24197		0.21785		0.19419		0.17137		0.14973		0.12952
 
 #### Q12) &ensp; Write a C program to interpolate using Newton's Backward Interpolation Method. Use it to find the value of y when x = 0.75. Given:
 ```
-x:	0.0		0.2		    0.4		    0.6		    0.8		    1.0
+x:	0.0		0.2		    0.4		   0.6		 0.8		   1.0
 y:	1.0		0.961538	0.833333	0.555556	0.3125		0.2
 
 ```
